@@ -27,12 +27,7 @@
 ## 倡议
 **目前格式还是草案阶段，也没有其他笔记 App 支持，欢迎热心的同学开发相应的笔记数据转换脚本，提供相应的教程分享在这里，一起为自由的笔记数据流动做贡献。**
 
-inBox APP 下载地址：
-
-```
-https://wwt.lanzoub.com/iq8YM0aamjjg
-密码:6666
-```
+inBox APP 下载地址：[http://fir.gudong.site/dx2f](http://fir.gudong.site/dx2f)
 
 ---
 
